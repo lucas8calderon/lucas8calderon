@@ -3,7 +3,7 @@
   <p align="center">Estudo Engenharia de Computação na <a href="https://bityli.com/xuaEt"><i>Universidade Cruzeiro do Sul</i></a> e compartilho meu aprendizado aqui e no meu  <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/"><i>linkedin</i></a><span> 
     
     
-  <p align="center">Atualmente estudando sobre desenvolvimento de Mobile, Software Desktop e Web. </h2>
+  <p align="center">Atualmente estudando sobre desenvolvimento Mobile, Software Desktop e Web. </h2>
 </div>
 
  
