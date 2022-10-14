@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://lucas8calderon.github.io/Portfolio/"><i>Lucas Calderon</i></a> 😃️</h1>
-  <p align="center">Estudo Engenharia de Computação na <a href="https://bityli.com/xuaEt"><i>Universidade Cruzeiro do Sul</i></a> e compartilho meu aprendizado aqui e no meu  <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/"><i>linkedin</i></a><span> 
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://lucas8calderon.github.io/perfil/"><i>Lucas Calderon</i></a> 😃️</h1>
+  <p align="center">Estudo Engenharia de Computação na <a href="https://bityli.com/xuaEt"><i>Universidade Cruzeiro do Sul</i></a> e compartilho meu aprendizado aqui, no meu  <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/"><i>linkedin</i></a><span> e no meu <a href="https://lucas8calderon.github.io/perfil/"><i>portfólio</i></a><span> de projetos pessoais.
     
     
-  <p align="center">Atualmente estudando sobre desenvolvimento Mobile e Web. </h2>
+  <p align="center">Atualmente estudando e trabalhando com desenvolvimento mobile android em linguagem nativa. </h2>
 </div>
 
  
@@ -45,10 +45,7 @@
   <a href="https://wa.me/5511977844172" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucas8calderon@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
+  <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
