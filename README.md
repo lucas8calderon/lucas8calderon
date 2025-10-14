@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://lucas8calderon.github.io/perfil/"><i>Lucas Calderon</i></a> 😃️</h1>
-  <p align="center">Formado em Engenharia de Computação na <a href="https://bityli.com/xuaEt"><i>Universidade Cruzeiro do Sul</i></a> e compartilho meu aprendizado aqui, no meu  <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/"><i>linkedin</i></a><span> e no meu <a href="https://lucas8calderon.github.io/perfil/"><i>portfólio</i></a><span> de projetos pessoais.
+  <p align="center">Formado em Engenharia de Computação na <a href="https://bityli.com/xuaEt"><i>Universidade Cruzeiro do Sul</i></a> e compartilho meu aprendizado aqui, no meu  <a href="https://www.linkedin.com/in/lucas-calderon-9b2a941a6/"><i>linkedin</i></a><span> e no meu <a href="https://lucas8calderon.github.io/perfil-main/"><i>portfólio</i></a><span> de projetos pessoais.
     
     
   <p align="center">Atualmente estudando e trabalhando com desenvolvimento mobile android em linguagem nativa. </h2>
