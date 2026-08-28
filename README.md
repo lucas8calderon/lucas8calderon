@@ -11,6 +11,41 @@
   <p align="center">Já vamos fazer conexão e compartilhar conhecimentos? Tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=lucas8calderon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=lucas8calderon&show_icons=true&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://github-stats-extended.vercel.app/api?username=lucas8calderon&show_icons=true&theme=transparent&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas8calderon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas8calderon&layout=compact&langs_count=8&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas8calderon&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+      alt="Most Used Languages"
+    />
+  </picture>
+</div>
+
 
 
 <div align="center">
